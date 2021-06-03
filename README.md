@@ -3,6 +3,9 @@
   
 Count the repetitions of exercise using pose estimation implemented in Pytorch and trained on **HRNet** ([Link](https://arxiv.org/pdf/1902.09212.pdf)) .Model is also scalable to multiple person using YOLOv3. This repo is built on the top of this repo ([Link](https://github.com/stefanopini/simple-HRNet)).
 
+
+[Demo Videos](https://drive.google.com/drive/folders/1145dMy3WfEOOWInNj9WI23lcoUJaET_L?usp=sharing)
+
 ## Steps to run   
 
  1. Clone this repository  
